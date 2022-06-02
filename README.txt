@@ -1,0 +1,1 @@
+This is going to be a script that lets you easily create key pairs, giving you easy access to the GitHub format of that key pair that you need to paste into the website, and adds that key pair to the ssh-agent (at least in Fedora and similar distros).
