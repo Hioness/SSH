@@ -11,7 +11,7 @@ ssh-keygen -b 4096 -t rsa
 
 ssh-add $Name
 
-echo "Your key called $Name looks like this:"
+echo -e "Your key called $Name looks like this:\n"
 cat $Name.pub
 
-echo "Copy-Paste that into GitHub and ur good"
+echo -e "\nCopy-Paste that into GitHub and ur good"
